@@ -6,8 +6,12 @@ This is an interactive text-based storytelling game; this experience was develop
 Old link: https://hamzahfar1203.github.io/M-HTML5TextBasedGame/
 
 Episode One - Complete.
+<br><br>
 Episode Two - Complete.
+<br><br>
 Episode Three - Cancelled.
+
+<strong>PROJECT CONCLUDED</strong>
 
 <hr>
 <h2>Project Summary</h2>
