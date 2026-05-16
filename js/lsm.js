@@ -31,8 +31,8 @@ window.onload = function () {
 }
 
 submitBtn.addEventListener("click", () => {
-    if (userInput.value === sEzncH2) {
+    if (userInput.value === "sEzncH2") {
         setCookie("lastUsedPassword", userInput.value);
-        window.location.replace("../tTrPLocfRsEzN1e2.html");
+        window.location.replace("../ep2.html");
     }
 });
