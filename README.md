@@ -3,7 +3,7 @@ This is an interactive text-based storytelling game; this experience was develop
 
 2026 Update: Over a year ago, I took the project files and worked on the project, adding an entirely different storyline to it in the process. Here is a much tamer version of the new website, only including the content present within the source code of the GitHub files (loosely): https://eloosiv-chronicles-fes.netlify.app/
 
-Old link: https://hamzahfar1203.github.io/M-HTML5TextBasedGame/
+Old link: https://hamzahfar1203.github.io/the-menage-files-app/
 
 Episode One - Complete.
 <br><br>
